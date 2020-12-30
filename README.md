@@ -1,1 +1,14 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# NextJS sample website, deployed on Vercel
+
+### Incentive
+The aim of this project is to practice using the following tools/technologies: ReactJS, Typescript, NodeJS, REST API, SQL/NoSQL, CI/CD
+
+I decided to create a NextJS app as it is a React framework and provides Typescript support.
+
+### Deployment
+This project is deployed on Vercel. Pushing to the master branch will be deployed.
+
+### About NextJS
+Next.js automatically optimizes your application for the best performance by code splitting, client-side navigation, and prefetching (in production). - the homepgage should load quickly, any links will load quickly also as they will have been prefetched, if one page has an error the rest of the app will still work.
+
+You create routes as files under 'pages' and use the built-in Link component. No routing libraries are required.
